@@ -1,0 +1,46 @@
+{
+    "bill": [
+        {
+            "room_num": 201,
+            "electric": 3000,
+            "water": 100,
+            "pay": false,
+            "date": "2023-01-01"
+        },
+        {
+            "room_num": 301,
+            "electric": 2000,
+            "water": 250,
+            "pay": false,
+            "date": "2023-01-01"
+        },
+        {
+            "room_num": 201,
+            "electric": 1000,
+            "water": 200,
+            "pay": true,
+            "date": "2023-02-01"
+        },
+        {
+            "room_num": 101,
+            "water": 200,
+            "electric": 2000,
+            "pay": false,
+            "date": "2022-01-01"
+        },
+        {
+            "room_num": 404,
+            "water": 500,
+            "electric": 1300,
+            "pay": false,
+            "date": "2023-01-01"
+        },
+        {
+            "room_num": 404,
+            "water": 100,
+            "electric": 1000,
+            "pay": false,
+            "date": "2023-02-01"
+        }
+    ]
+}
