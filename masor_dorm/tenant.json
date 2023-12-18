@@ -1,0 +1,38 @@
+{
+    "tenant": [
+        {
+            "id": 1,
+            "name": "สมจิตร",
+            "surname": "จงจองหอง",
+            "ID_card" : "1212569884555", 
+            "age": 30,
+            "city": "กรุงเทพ",
+            "line": "somjit_j",
+            "contract": 12,
+            "start_date": "2022-01-01"
+        },
+        {
+            "id": 2,
+            "name": "สมชาย",
+            "surname": "ใจดี",
+            "ID_card" : "6121235548662",
+            "age": 25,
+            "city": "สมุทรปราการ",
+            "line": "somchai_jj",
+            "contract": 10,
+            "start_date": "2022-01-01"
+        },
+        {
+            "id": 3,
+            "name": "ใจดี",
+            "surname": "ประเสริฐทุกสิ่ง",
+            "ID_card" : "6931256364856",
+            "age": 50,
+            "city": "Bangkok",
+            "line": "john_doe",
+            "contract": 12,
+            "start_date": "2022-01-01"
+        }
+       
+    ]
+}
