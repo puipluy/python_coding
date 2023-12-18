@@ -1,0 +1,40 @@
+{
+    "room": [
+      {
+        "room_num": 101,
+        "price": 2000,
+        "vacancy": true,
+        "tenent_id": null,
+        "floor": 1
+      },
+      {
+        "room_num": 201,
+        "price": 2000,
+        "vacancy": false,
+        "tenent_id": 1,
+        "floor": 2
+      },
+      {
+        "room_num": 301,
+        "price": 3000,
+        "vacancy": false,
+        "tenent_id": 2,
+        "floor": 3
+      },
+      {
+        "room_num": 304,
+        "price": 3000,
+        "vacancy": true,
+        "tenent_id": null,
+        "floor": 3
+      },
+      {
+        "room_num": 404,
+        "price": 3500,
+        "vacancy": false,
+        "tenent_id": 3,
+        "floor": 4
+      }
+
+    ]
+    }
